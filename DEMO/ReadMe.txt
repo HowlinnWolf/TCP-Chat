@@ -1,6 +1,7 @@
-- Запустить Сервер в DEMO
-- Запустить Клиент (можно несколько) в DEMO
+- Зайти в DEMO, запустить Сервер
+- Зайти в DEMO, запустить несколько Клиентов
+- Общаться между собой
 
 Или запустить файлы вручную:
-- Запустить TCP-Chat.exe в TCP-Chat\bin\Release
-- Запустить ChatClient.exe в ChatClient\bin\Release
+- Запустить Сервер - TCP-Chat.exe в TCP-Chat\bin\Release
+- Запустить Клиент - ChatClient.exe в ChatClient\bin\Release
