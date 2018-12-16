@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\TCP-Chat\TCP-Chat\obj\Debug\TCP-Chat.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TCP-Chat\TCP-Chat\obj\Debug\TCP-Chat.csproj.CoreCompileInputs.cache

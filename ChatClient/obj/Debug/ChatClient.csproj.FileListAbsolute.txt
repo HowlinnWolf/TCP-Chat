@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\TCP-Chat\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\User\source\repos\TCP-Chat\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\User\source\repos\TCP-Chat\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\User\source\repos\TCP-Chat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TCP-Chat\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\User\source\repos\TCP-Chat\ChatClient\obj\Debug\ChatClient.pdb

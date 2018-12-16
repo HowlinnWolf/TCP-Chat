@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\TCP-Chat\TCP-Chat\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TCP-Chat\TCP-Chat\bin\Debug\TCP-Chat.exe.config
+C:\Users\User\source\repos\TCP-Chat\TCP-Chat\bin\Debug\TCP-Chat.exe
+C:\Users\User\source\repos\TCP-Chat\TCP-Chat\bin\Debug\TCP-Chat.pdb
+C:\Users\User\source\repos\TCP-Chat\TCP-Chat\obj\Debug\TCP-Chat.exe
+C:\Users\User\source\repos\TCP-Chat\TCP-Chat\obj\Debug\TCP-Chat.pdb
+C:\Users\User\Documents\Visual Studio Projects\TCP-Chat\TCP-Chat\bin\Debug\TCP-Chat.exe.config
+C:\Users\User\Documents\Visual Studio Projects\TCP-Chat\TCP-Chat\bin\Debug\TCP-Chat.exe
+C:\Users\User\Documents\Visual Studio Projects\TCP-Chat\TCP-Chat\bin\Debug\TCP-Chat.pdb
+C:\Users\User\Documents\Visual Studio Projects\TCP-Chat\TCP-Chat\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio Projects\TCP-Chat\TCP-Chat\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio Projects\TCP-Chat\TCP-Chat\obj\Debug\TCP-Chat.exe
+C:\Users\User\Documents\Visual Studio Projects\TCP-Chat\TCP-Chat\obj\Debug\TCP-Chat.pdb
